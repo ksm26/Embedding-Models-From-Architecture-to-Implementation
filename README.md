@@ -7,6 +7,11 @@ In this course, you’ll explore the evolution of embedding models, from word to
 
 **Detailed Learning Outcomes:**
 1. 🧩 **Embedding Models**: Learn about word embedding, sentence embedding, and cross-encoder models, and how they are utilized in Retrieval-Augmented Generation (RAG) systems.
+
+<p align="center">
+<img src="images/l1_1.png" height="300"> 
+</p>
+
 2. 🧠 **Transformer Models**: Understand how transformer models, specifically BERT (Bi-directional Encoder Representations from Transformers), are trained and used in semantic search systems.
 3. 🏗️ **Dual Encoder Architecture**: Gain knowledge of the evolution of sentence embedding and understand the formation of the dual encoder architecture.
 4. 🔧 **Training with Contrastive Loss**: Use contrastive loss to train a dual encoder model, with one encoder trained for questions and another for responses.
