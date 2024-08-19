@@ -13,7 +13,18 @@ In this course, you’ll explore the evolution of embedding models, from word to
 </p>
 
 2. 🧠 **Transformer Models**: Understand how transformer models, specifically BERT (Bi-directional Encoder Representations from Transformers), are trained and used in semantic search systems.
+
+<p align="center">
+<img src="images/l3_1.png" height="300"> 
+<img src="images/l3_2.png" height="300"> 
+</p>
+
 3. 🏗️ **Dual Encoder Architecture**: Gain knowledge of the evolution of sentence embedding and understand the formation of the dual encoder architecture.
+
+<p align="center">
+<img src="images/l3_4.png" height="350"> 
+</p>
+
 4. 🔧 **Training with Contrastive Loss**: Use contrastive loss to train a dual encoder model, with one encoder trained for questions and another for responses.
 5. 🔍 **RAG Pipeline**: Utilize separate encoders for questions and answers in a RAG pipeline and observe the differences in retrieval effectiveness compared to a single encoder model.
 
