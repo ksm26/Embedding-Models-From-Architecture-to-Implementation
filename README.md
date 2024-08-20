@@ -23,6 +23,7 @@ In this course, you’ll explore the evolution of embedding models, from word to
 
 <p align="center">
 <img src="images/l3_4.png" height="350"> 
+<img src="images/l4_1.png" height="350"> 
 </p>
 
 4. 🔧 **Training with Contrastive Loss**: Use contrastive loss to train a dual encoder model, with one encoder trained for questions and another for responses.
