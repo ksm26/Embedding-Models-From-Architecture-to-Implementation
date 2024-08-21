@@ -27,7 +27,16 @@ In this course, you’ll explore the evolution of embedding models, from word to
 </p>
 
 4. 🔧 **Training with Contrastive Loss**: Use contrastive loss to train a dual encoder model, with one encoder trained for questions and another for responses.
+<p align="center">
+<img src="images/l5_1.png" height="200"> 
+<img src="images/l5_2.png" height="200"> 
+</p>
+
 5. 🔍 **RAG Pipeline**: Utilize separate encoders for questions and answers in a RAG pipeline and observe the differences in retrieval effectiveness compared to a single encoder model.
+<p align="center">
+<img src="images/l5_3.png" height="350"> 
+<img src="images/l5_4.png" height="350"> 
+</p>
 
 ## 🔑 Key Points
 - 🏛️ **In-depth Understanding**: Gain a deep understanding of embedding model architecture and learn how to train and use them effectively in AI applications.
