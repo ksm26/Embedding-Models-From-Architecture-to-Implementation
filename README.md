@@ -34,8 +34,8 @@ In this course, you’ll explore the evolution of embedding models, from word to
 
 5. 🔍 **RAG Pipeline**: Utilize separate encoders for questions and answers in a RAG pipeline and observe the differences in retrieval effectiveness compared to a single encoder model.
 <p align="center">
-<img src="images/l5_3.png" height="350"> 
-<img src="images/l5_4.png" height="350"> 
+<img src="images/l5_3.png" height="450"> 
+<img src="images/l5_4.png" height="450"> 
 </p>
 
 ## 🔑 Key Points
